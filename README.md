@@ -73,7 +73,7 @@ LinkedIn: https://www.linkedin.com/in/meijia-oltman/
 Email: meijia.oltman@du.edu
 
  
-## **Data Analyitcs Examples:**
+## **Data Analytics Examples:**
 
 The following list are several examples of the projects I have completed throughout my undergraduate career.
 
