@@ -2,6 +2,7 @@
 
 
 **About Me:** 
+
 Nice to meet you! I am currently a fourth-year Honors student at the University of Denver. I am majoring in Business Information & Analytics in the Daniels College of Business at the University of Denver. I have also completed minors in Spanish and Accounting. I have always been good with numbers, but my passion for business analytics stems from the story these numbers can tell. I am excited to transform data into dynamic dashboards, simulations, models, and visuals to help individuals and businesses make informed and beneficial decisions. As an engaged student on campus, I have utilized my skills and knowledge to fulfill fundraising goals as Fundraising Chair for Club Women’s Water Polo, maintain a constantly up to date website as Webmaster for Delta Sigma Pi, and exceed donation goals as a Student Caller at the Crimson Call Center.
 
 
@@ -13,8 +14,11 @@ I have always been good with numbers, but my passion for business analytics stem
 
 
 **Education:**
+
 University of Denver 2018 - Present
+
 Expected Graduation Date: June 2022
+
 GPA: 3.88
 
 **Expereience**:
@@ -25,12 +29,14 @@ Current Position: Digital Marketing Specialist at Two Octobers
   -	Completed investigations and exploratory research to provide key insights influencing marketing performance
   
 **Skills and Certifications**: 
+
   -	Language: Spanish Seal of Biliteracy 
   -	Microsoft Office Certifications: Excel, Word, PowerPoint, Access
   -	Google Certifications: Google Ads
   - Computer: SQL, Python, R, Tableau, JMP, VBA, Visual Studios
 
 **Qualifications**:
+
 -	Organized, efficient, and attention to detail in executing both daily and long-term projects and tasks
 -	Experience in planning and implementing special projects in time-sensitive ventures
 -	Definitive and direct with the flexibility to respond to dynamic assignment requirements
@@ -39,6 +45,7 @@ Current Position: Digital Marketing Specialist at Two Octobers
 
 
 **Hobbies and Interests**:
+
 Since I was a kid, I have loved exploring different National Parks and finding adventure in the outdoors. I learned how to ski when I first started at the University of Denver, and I have enjoyed improving each winter! 
 
 In my freetime, I also like to experiment with different recipes to share with my friends and family!
@@ -46,11 +53,13 @@ In my freetime, I also like to experiment with different recipes to share with m
 **Relevant Class Curriculum:**
 
 **Foundations**
+
 -	Data Management and Analysis
 -	Business Statistics and Analysis
 -	Business Modeling and Analysis
 
 **Advanced**
+
 - Data Warehousing and Business Intelligence
 - Data Mining and Visualization
 - Enterprise Information Management 
@@ -65,6 +74,7 @@ Email: meijia.oltman@du.edu
 
  
 ## **Data Analyitcs Examples:**
+
 The following list are several examples of the projects I have completed throughout my undergraduate career.
 
 
