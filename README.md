@@ -20,22 +20,22 @@ GPA: 3.88
 **Expereience**:
 
 Current Position: Digital Marketing Specialist at Two Octobers
-  •	Performed keyword and competitive research to identify opportunities for client
-  •	Executed website behavior analysis to discover key trends driving business operations
-  •	Completed investigations and exploratory research to provide key insights influencing marketing performance
+  -	Performed keyword and competitive research to identify opportunities for client
+  -	Executed website behavior analysis to discover key trends driving business operations
+  -	Completed investigations and exploratory research to provide key insights influencing marketing performance
   
 **Skills and Certifications**: 
-  •	Language: Spanish Seal of Biliteracy 
-  •	Microsoft Office Certifications: Excel, Word, PowerPoint, Access
-  •	Google Certifications: Google Ads
-  •	Computer: SQL, Python, R, Tableau, JMP, VBA, Visual Studios
+  -	Language: Spanish Seal of Biliteracy 
+  -	Microsoft Office Certifications: Excel, Word, PowerPoint, Access
+  -	Google Certifications: Google Ads
+  - Computer: SQL, Python, R, Tableau, JMP, VBA, Visual Studios
 
 **Qualifications**:
-•	Organized, efficient, and attention to detail in executing both daily and long-term projects and tasks
-•	Experience in planning and implementing special projects in time-sensitive ventures
-•	Definitive and direct with the flexibility to respond to dynamic assignment requirements
-•	Ability to coordinate and manage multiple projects and meet deadlines
-•	Eagerness to accept increased responsibility and strong follow-through
+-	Organized, efficient, and attention to detail in executing both daily and long-term projects and tasks
+-	Experience in planning and implementing special projects in time-sensitive ventures
+-	Definitive and direct with the flexibility to respond to dynamic assignment requirements
+-	Ability to coordinate and manage multiple projects and meet deadlines
+-	Eagerness to accept increased responsibility and strong follow-through
 
 
 **Hobbies and Interests**:
@@ -44,11 +44,13 @@ Since I was a kid, I have loved exploring different National Parks and finding a
 In my freetime, I also like to experiment with different recipes to share with my friends and family!
 
 **Relevant Class Curriculum:**
-***Foundations:***
-•	Data Management and Analysis
-•	Business Statistics and Analysis
-•	Business Modeling and Analysis
-***Advanced:***
+
+**Foundations**
+-	Data Management and Analysis
+-	Business Statistics and Analysis
+-	Business Modeling and Analysis
+
+**Advanced**
 - Data Warehousing and Business Intelligence
 - Data Mining and Visualization
 - Enterprise Information Management 
@@ -61,8 +63,7 @@ LinkedIn: https://www.linkedin.com/in/meijia-oltman/
 
 Email: meijia.oltman@du.edu
 
-  
-
+ 
 ## **Data Analyitcs Examples:**
 The following list are several examples of the projects I have completed throughout my undergraduate career.
 
