@@ -73,9 +73,29 @@ LinkedIn: https://www.linkedin.com/in/meijia-oltman/
 Email: meijia.oltman@du.edu
 
  
-## **Data Analytics Examples:**
+## **Data Analytics Course Examples:**
 
 The following list are several examples of the projects I have completed throughout my undergraduate career.
+
+**Example 1:**
+
+Purpose of the Course: Students will learn how a data warehouse fits into the overall strategy of a complex enterprise, how to develop 
+data models useful for business intelligence, and how to combine data from disparate sources into a single 
+database that comprises the core of a data warehouse. Students will also explore how to define and specify useful 
+management reports from warehouse data. 
+
+This first image is an ERD diagram of an OLTP I developed and created for a online ticket sales platform. 
+![image](https://user-images.githubusercontent.com/91157088/142680776-48fd8324-e026-4ad9-ade7-62d27718c201.png)
+
+This second image is a Star Schema Diagram of an OLAP that I created based on the data in my OLTP.
+<img width="361" alt="OLAP" src="https://user-images.githubusercontent.com/91157088/142681305-b236b44b-fcc9-41a6-a1c2-8b3e298d3eb1.PNG">
+
+With this data, I was able to use PowerPivot to develop a dashboard that the business can use to understand trends and develop insights. The following image shows a snaphsot of the PowerPivot dashboard.
+![image](https://user-images.githubusercontent.com/91157088/142682603-bfd8e738-69a0-4097-8bee-26a350d31d0e.png)
+
+
+
+
 
 
 
